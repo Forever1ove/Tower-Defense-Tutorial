@@ -11,9 +11,8 @@ public class CompleteLevel : MonoBehaviour {
 
     public int gameLevel;
 	public string nextLevel = "Level02";
-    public string nextLevel2 = "Level03";
-    public string nextLevel3 = "Level04";
-    public int levelToUnlock = 4;
+    public int levelToUnlock = 2;
+	
 
 	public SceneFader sceneFader;
 
